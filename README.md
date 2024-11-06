@@ -1,3 +1,4 @@
+1
 # JS-Iteration-Methods-Part2
 
 ## Instructions
